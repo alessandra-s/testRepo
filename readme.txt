@@ -30,4 +30,4 @@ git merge master
 added new remote called origin with specified url
 git remote add origin https://github.com/alessandra-s/testRepo.git
 
-git push -u origin main
+git push -u origin 
